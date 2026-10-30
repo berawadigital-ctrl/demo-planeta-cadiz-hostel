@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-planeta-cadiz-hostel",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T10:57:00+01:00",
+ "updated_at": "2026-10-30T11:15:00+01:00",
+ "business": {
+  "name": "Planeta Cádiz Hostel",
+  "legal_name": "CADIZ PLANET SL (aviso legal / política de privacidad de su web)",
+  "registry_ids": [
+   "B72369416",
+   "H/CA/01473"
+  ],
+  "url": "https://www.planetacadizhostel.com/",
+  "domain": "planetacadizhostel.com",
+  "municipality": "Cádiz",
+  "province": "Cádiz",
+  "address": "Calle Montañés 16 · Cádiz",
+  "phones": [
+   "+34 956 21 07 02"
+  ],
+  "emails": [
+   "reservas@planetacadizhostel.com"
+  ],
+  "sector": "hostel en una casa del siglo XIX del casco histórico de Cádiz"
+ },
+ "rating": {
+  "value": 4.1,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Planeta+Cadiz+Hostel/@36.5316834,-6.2961478,17z/data=!4m9!3m8!1s0xd0dd1609e929111:0x8a05aa46790f3aff!5m2!4m1!1i2!8m2!3d36.5316834!4d-6.2961478!16s%2Fg%2F11j3pnt509",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.avirato.com/?code=44454701",
+  "note": "motor de reservas real de su web (Avirato, code 44454701, enlazado desde los botones RESERVAR de sus habitaciones), HTTP 200 comprobado el 30/10/2026 con lang es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://www.planetacadizhostel.com/",
+  "date": "2026-10-30T10:51:57+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
