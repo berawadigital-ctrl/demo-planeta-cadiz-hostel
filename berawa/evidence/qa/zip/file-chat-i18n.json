@@ -1,0 +1,395 @@
+{
+ "url": "file:///tmp/zip-planeta-cadiz-hostel/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitaciones dobles (Económica y Deluxe), familiares para 4 personas (también con terraza) y para 6, y habitaciones para compartir de 4,"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, el hostel dispone de desayunos."
+    },
+    {
+     "q": "¿Tenéis cocina?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, hay cocina comunitaria."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, el wifi es gratis."
+    },
+    {
+     "q": "¿La recepción está abierta 24 horas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La recepción funciona las 24 horas y además hay un quiosco de autocheck-in disponible las 24 h."
+    },
+    {
+     "q": "¿Hay terraza?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, hay una amplia terraza con vistas y un bar con ambiente gaditano."
+    },
+    {
+     "q": "¿Qué hay cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está a 200 m de la Torre Tavira, a 350 m de la Catedral de Santa Cruz, a 1 km de la playa de La Caleta y a 1,5 km de la playa de Santa María"
+    },
+    {
+     "q": "¿Dónde está el hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "En la calle Montañés 16, en pleno centro histórico de Cádiz."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 956 21 07 02 o escribir a reservas@planetaca"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 956 21 07 02 o escribir a reservas@planetaca"
+    },
+    {
+     "q": "¿Tenéis lavandería?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, hay servicio de lavandería y alquiler de toallas."
+    },
+    {
+     "q": "¿Alquiláis bicicletas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, alquilan bicicletas para recorrer Cádiz."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay desayuno?",
+    "¿Qué hay cerca?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are double rooms (Economy and Deluxe), family rooms for 4 people (also with a terrace) and for 6, and shared rooms for 4, 6 and 10 peo"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, the hostel offers breakfast."
+    },
+    {
+     "q": "Is there a kitchen?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is a shared kitchen."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, wifi is free."
+    },
+    {
+     "q": "Is reception open 24 hours?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Reception is open 24 hours and there is also a self check-in kiosk available 24 h."
+    },
+    {
+     "q": "Is there a terrace?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is a large terrace with views and a bar with a Cádiz atmosphere."
+    },
+    {
+     "q": "What is nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is 200 m from the Torre Tavira, 350 m from the Cathedral of Santa Cruz, 1 km from La Caleta beach and 1,5 km from Santa María beach."
+    },
+    {
+     "q": "Where is the hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "At Calle Montañés 16, right in the historic centre of Cádiz."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 956 21 07 02 or email reservas@planetacadizhostel.com. T"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 956 21 07 02 or email reservas@planetacadizhostel.com. T"
+    },
+    {
+     "q": "Do you have laundry?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, there is a laundry service and towel rental."
+    },
+    {
+     "q": "Do you rent bikes?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, they rent bikes to get around Cádiz."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there breakfast?",
+    "What is nearby?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres doubles (Économique et Deluxe), des familiales pour 4 personnes (aussi avec terrasse) et pour 6, et des chambres à parta"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, l’auberge propose des petits-déjeuners."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a une cuisine commune."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, le wifi est gratuit."
+    },
+    {
+     "q": "La réception est-elle ouverte 24 h/24 ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La réception est ouverte 24 heures sur 24 et il y a aussi une borne d’auto-enregistrement disponible 24 h."
+    },
+    {
+     "q": "Y a-t-il une terrasse ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il y a une grande terrasse avec vue et un bar à l’ambiance gaditane."
+    },
+    {
+     "q": "Qu’y a-t-il à proximité ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il est à 200 m de la Torre Tavira, à 350 m de la cathédrale de Santa Cruz, à 1 km de la plage de La Caleta et à 1,5 km de la plage de Santa "
+    },
+    {
+     "q": "Où se trouve l’auberge ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Calle Montañés 16, en plein centre historique de Cadix."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 956 21 07 02 ou écrire à "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 956 21 07 02 ou écrire à "
+    },
+    {
+     "q": "Avez-vous une laverie ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, il y a un service de laverie et la location de serviettes."
+    },
+    {
+     "q": "Louez-vous des vélos ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, ils louent des vélos pour parcourir Cadix."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Qu’y a-t-il à proximité ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Doppelzimmer (Economy und Deluxe), Familienzimmer für 4 Personen (auch mit Terrasse) und für 6 sowie Mehrbettzimmer für 4, 6 und 10 "
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, das Hostel bietet Frühstück an."
+    },
+    {
+     "q": "Gibt es eine Küche?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt eine Gemeinschaftsküche."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, das WLAN ist kostenlos."
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr geöffnet?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Rezeption ist rund um die Uhr geöffnet, und es gibt zusätzlich einen Self-Check-in-Kiosk, 24 h verfügbar."
+    },
+    {
+     "q": "Gibt es eine Terrasse?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, es gibt eine große Terrasse mit Aussicht und eine Bar mit Cádiz-Atmosphäre."
+    },
+    {
+     "q": "Was gibt es in der Nähe?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt 200 m vom Torre Tavira, 350 m von der Kathedrale Santa Cruz, 1 km vom Strand La Caleta und 1,5 km vom Strand Santa María entfernt."
+    },
+    {
+     "q": "Wo liegt das Hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "In der Calle Montañés 16, mitten in der Altstadt von Cádiz."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 956 21 07 02 anrufen oder an reservas@pl"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 956 21 07 02 anrufen oder an reservas@pl"
+    },
+    {
+     "q": "Gibt es eine Wäscherei?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Wäscheservice und Handtuchverleih."
+    },
+    {
+     "q": "Verleihen Sie Fahrräder?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, es werden Fahrräder vermietet, um Cádiz zu erkunden."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 956 21 07 02 · reservas@planetacadizhostel.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Frühstück?",
+    "Was gibt es in der Nähe?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
