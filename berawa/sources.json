@@ -1,0 +1,54 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.planetacadizhostel.com/",
+ "read_at": "2026-10-30T10:57:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.planetacadizhostel.com/",
+   "sha256": "eaa99138379385fda20ba8e7a92ed4e8708eb82ec8d73bdf030a2414801cfc99",
+   "chars": 6731
+  },
+  {
+   "url": "https://www.planetacadizhostel.com/contacto/",
+   "sha256": "71b95c4356384d50735ba6dae8c033b8df2a11d42785e44e1bb453147b3eb0a5",
+   "chars": 4608
+  },
+  {
+   "url": "https://www.planetacadizhostel.com/el-hostel/",
+   "sha256": "1365a7d968cf9b12f28ad1817637005523871411f3f990bc6df70dbb4e1982e3",
+   "chars": 8187
+  },
+  {
+   "url": "https://www.planetacadizhostel.com/habitaciones-dobles/",
+   "sha256": "e49ce6016a3b7775f09feca0a8786c300a46af3b8499e7564676cb692e8eb3c1",
+   "chars": 5926
+  },
+  {
+   "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+   "sha256": "71474069193f9fb56bdc5e3c1df80b9eeadee99c2e8da11392ba576a7441a2c7",
+   "chars": 6111
+  },
+  {
+   "url": "https://www.planetacadizhostel.com/habitaciones-para-compartir/",
+   "sha256": "d29a3025e34fbc9149d8ca55ba8b03125aaa2f9afb0d5ad245aaa7bbf6a9790a",
+   "chars": 6057
+  }
+ ],
+ "other_pages_read": [
+  "https://www.planetacadizhostel.com/blog/",
+  "https://www.planetacadizhostel.com/bono-turistico-andaluz-2021/",
+  "https://www.planetacadizhostel.com/cadiz-el-destino-perfecto/",
+  "https://www.planetacadizhostel.com/conocenos/",
+  "https://www.planetacadizhostel.com/el-lugar-preferido-por-los-espanoles/",
+  "https://www.planetacadizhostel.com/en/about-us/",
+  "https://www.planetacadizhostel.com/en/hostel-planeta-cadiz/",
+  "https://www.planetacadizhostel.com/en/the-hostel/",
+  "https://www.planetacadizhostel.com/gastronomia-gaditana/",
+  "https://www.planetacadizhostel.com/generacion-backpackers/",
+  "https://www.planetacadizhostel.com/grupos/",
+  "https://www.planetacadizhostel.com/politica-de-privacidad/",
+  "https://www.planetacadizhostel.com/que-es-un-hostel/",
+  "https://www.planetacadizhostel.com/vive-cadiz/"
+ ]
+}
