@@ -1,0 +1,515 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-planeta-cadiz-hostel",
+ "source_site": "https://www.planetacadizhostel.com/",
+ "source_read_at": "2026-10-30T10:57:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "habitaciones",
+     "dormitorio",
+     "litera",
+     "doble"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "dorm",
+     "bunk",
+     "double"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "chambres",
+     "dortoir",
+     "double"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertyp",
+     "schlafsaal",
+     "etagenbett",
+     "doppelzimmer"
+    ]
+   },
+   "a": {
+    "es": "Hay habitaciones dobles (Económica y Deluxe), familiares para 4 personas (también con terraza) y para 6, y habitaciones para compartir de 4, 6 y 10 personas.",
+    "en": "There are double rooms (Economy and Deluxe), family rooms for 4 people (also with a terrace) and for 6, and shared rooms for 4, 6 and 10 people.",
+    "fr": "Il y a des chambres doubles (Économique et Deluxe), des familiales pour 4 personnes (aussi avec terrasse) et pour 6, et des chambres à partager de 4, 6 et 10 personnes.",
+    "de": "Es gibt Doppelzimmer (Economy und Deluxe), Familienzimmer für 4 Personen (auch mit Terrasse) und für 6 sowie Mehrbettzimmer für 4, 6 und 10 Personen."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-dobles/",
+     "quote": "Habitación doble Económica"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-dobles/",
+     "quote": "Habitación Doble Deluxe"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Habitación familiar de 4 personas"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Habitación Familiar de 4 personas con Terraza"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Habitación Familiar de 6 personas"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-para-compartir/",
+     "quote": "De 4 personas"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-para-compartir/",
+     "quote": "De 6 personas"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-para-compartir/",
+     "quote": "De10 personas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hostel dispone de desayunos.",
+    "en": "Yes, the hostel offers breakfast.",
+    "fr": "Oui, l’auberge propose des petits-déjeuners.",
+    "de": "Ja, das Hostel bietet Frühstück an."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Desayunos Disponemos de desayunos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "cocinar",
+     "nevera"
+    ],
+    "en": [
+     "kitchen",
+     "cook",
+     "fridge"
+    ],
+    "fr": [
+     "cuisine",
+     "cuisiner",
+     "frigo"
+    ],
+    "de": [
+     "kuche",
+     "kochen",
+     "kuhlschrank"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay cocina comunitaria.",
+    "en": "Yes, there is a shared kitchen.",
+    "fr": "Oui, il y a une cuisine commune.",
+    "de": "Ja, es gibt eine Gemeinschaftsküche."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Cocina Disponemos de cocina comunitaria"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, el wifi es gratis.",
+    "en": "Yes, wifi is free.",
+    "fr": "Oui, le wifi est gratuit.",
+    "de": "Ja, das WLAN ist kostenlos."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Wifi Gratis Conéctate a internet"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas",
+     "check-in",
+     "llegada",
+     "autocheck"
+    ],
+    "en": [
+     "reception",
+     "24 hours",
+     "check-in",
+     "arrival",
+     "self check"
+    ],
+    "fr": [
+     "reception",
+     "24 h",
+     "arrivee",
+     "enregistrement"
+    ],
+    "de": [
+     "rezeption",
+     "rund um die uhr",
+     "check-in",
+     "anreise"
+    ]
+   },
+   "a": {
+    "es": "La recepción funciona las 24 horas y además hay un quiosco de autocheck-in disponible las 24 h.",
+    "en": "Reception is open 24 hours and there is also a self check-in kiosk available 24 h.",
+    "fr": "La réception est ouverte 24 heures sur 24 et il y a aussi une borne d’auto-enregistrement disponible 24 h.",
+    "de": "Die Rezeption ist rund um die Uhr geöffnet, und es gibt zusätzlich einen Self-Check-in-Kiosk, 24 h verfügbar."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Recepción 24 horas Siempre estaremos contigo"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/el-hostel/",
+     "quote": "nuestro kiosko autocheck-in a tu servicio las 24h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "terraza",
+   "keys": {
+    "es": [
+     "terraza",
+     "bar",
+     "vistas"
+    ],
+    "en": [
+     "terrace",
+     "bar",
+     "views",
+     "rooftop"
+    ],
+    "fr": [
+     "terrasse",
+     "bar",
+     "vue"
+    ],
+    "de": [
+     "terrasse",
+     "bar",
+     "aussicht"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay una amplia terraza con vistas y un bar con ambiente gaditano.",
+    "en": "Yes, there is a large terrace with views and a bar with a Cádiz atmosphere.",
+    "fr": "Oui, il y a une grande terrasse avec vue et un bar à l’ambiance gaditane.",
+    "de": "Ja, es gibt eine große Terrasse mit Aussicht und eine Bar mit Cádiz-Atmosphäre."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Terraza Disfruta de las vistas en nuestra amplia terraza"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "Bar Para disfrutar en un ambiente gaditano"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "cerca",
+   "keys": {
+    "es": [
+     "cerca",
+     "playa",
+     "catedral",
+     "torre tavira",
+     "que hay"
+    ],
+    "en": [
+     "nearby",
+     "beach",
+     "cathedral",
+     "torre tavira",
+     "what is near"
+    ],
+    "fr": [
+     "proximite",
+     "plage",
+     "cathedrale",
+     "torre tavira"
+    ],
+    "de": [
+     "in der nahe",
+     "strand",
+     "kathedrale",
+     "torre tavira"
+    ]
+   },
+   "a": {
+    "es": "Está a 200 m de la Torre Tavira, a 350 m de la Catedral de Santa Cruz, a 1 km de la playa de La Caleta y a 1,5 km de la playa de Santa María.",
+    "en": "It is 200 m from the Torre Tavira, 350 m from the Cathedral of Santa Cruz, 1 km from La Caleta beach and 1,5 km from Santa María beach.",
+    "fr": "Il est à 200 m de la Torre Tavira, à 350 m de la cathédrale de Santa Cruz, à 1 km de la plage de La Caleta et à 1,5 km de la plage de Santa María.",
+    "de": "Es liegt 200 m vom Torre Tavira, 350 m von der Kathedrale Santa Cruz, 1 km vom Strand La Caleta und 1,5 km vom Strand Santa María entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "A 200 mts de la Torre Tavira"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "A 350 mts de La Catedral de Santa Cruz"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "A 1 Km de la Playa de La Caleta"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/",
+     "quote": "A 1,5 Kms de la Playa de Santa María"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "acceder"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "En la calle Montañés 16, en pleno centro histórico de Cádiz.",
+    "en": "At Calle Montañés 16, right in the historic centre of Cádiz.",
+    "fr": "Calle Montañés 16, en plein centre historique de Cadix.",
+    "de": "In der Calle Montañés 16, mitten in der Altstadt von Cádiz."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/contacto/",
+     "quote": "Calle Montañés 16, Cádiz (Cádiz)"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/el-hostel/",
+     "quote": "Situado en el corazón de Cádiz, en pleno Centro Histórico"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes buscar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 956 21 07 02 o escribir a reservas@planetacadizhostel.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking engine (Book button), call +34 956 21 07 02 or email reservas@planetacadizhostel.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 956 21 07 02 ou écrire à reservas@planetacadizhostel.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 956 21 07 02 anrufen oder an reservas@planetacadizhostel.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/contacto/",
+     "quote": "(+34) 956 21 07 02"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/contacto/",
+     "quote": "E-mail reservas@planetacadizhostel.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "lavanderia",
+   "keys": {
+    "es": [
+     "lavanderia",
+     "lavar",
+     "toallas",
+     "ropa"
+    ],
+    "en": [
+     "laundry",
+     "wash",
+     "towel"
+    ],
+    "fr": [
+     "laverie",
+     "laver",
+     "serviette",
+     "linge"
+    ],
+    "de": [
+     "wascherei",
+     "waschen",
+     "handtuch"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay servicio de lavandería y alquiler de toallas.",
+    "en": "Yes, there is a laundry service and towel rental.",
+    "fr": "Oui, il y a un service de laverie et la location de serviettes.",
+    "de": "Ja, es gibt einen Wäscheservice und Handtuchverleih."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Lavandería Servicios de lavandería"
+    },
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Alquiler de Toallas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "bicicletas",
+   "keys": {
+    "es": [
+     "bicicleta",
+     "bici"
+    ],
+    "en": [
+     "bike",
+     "bicycle",
+     "cycle"
+    ],
+    "fr": [
+     "velo"
+    ],
+    "de": [
+     "fahrrad",
+     "rad "
+    ]
+   },
+   "a": {
+    "es": "Sí, alquilan bicicletas para recorrer Cádiz.",
+    "en": "Yes, they rent bikes to get around Cádiz.",
+    "fr": "Oui, ils louent des vélos pour parcourir Cadix.",
+    "de": "Ja, es werden Fahrräder vermietet, um Cádiz zu erkunden."
+   },
+   "sources": [
+    {
+     "url": "https://www.planetacadizhostel.com/habitaciones-familiares/",
+     "quote": "Bicicletas Alquiler de bicicletas, pedaléa por Cádiz"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
